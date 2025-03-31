@@ -1,0 +1,35 @@
+{
+  "info": {
+    "name": "Busca de Operadoras API",
+    "_postman_id": "12345678-1234-5678-1234-567812345678",
+    "description": "Cole\u00e7\u00e3o para testar a API de busca de operadoras",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Buscar operadoras",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:5000/buscar?q=amil",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "5000",
+          "path": [
+            "buscar"
+          ],
+          "query": [
+            {
+              "key": "q",
+              "value": "amil"
+            }
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}
