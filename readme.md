@@ -81,6 +81,6 @@ Exemplo de resposta:
 - Melhorar a interface com frameworks de UI (Bootstrap, Tailwind, etc.)
 
 ---
-📌 **Autor:** Seu Nome  
+📌 **Autor:** Luis Guilherme Rampaso 
 📅 **Última atualização:** `31/03/2025`
 
